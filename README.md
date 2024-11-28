@@ -24,17 +24,8 @@ The SAP CPU architecture, originally described in *Digital Computer Electronics*
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-2. (Optional) Set up a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/houssemabdelhedi/SAP-I_CPU.git
+   cd SAP-I_CPU
    ```
 
 ### Usage
