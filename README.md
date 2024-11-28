@@ -63,7 +63,7 @@ Contributions are welcome! Feel free to fork this repository, create new feature
 
 ## References
 - *Digital Computer Electronics* by Albert Paul Malvino and Jerald A. Brown
-- [Ben Eater's SAP-1 CPU Build](https://eater.net/)
+- [Ben Eater's SAP-1 CPU Build](https://eater.net/](https://eater.net/8bit)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
