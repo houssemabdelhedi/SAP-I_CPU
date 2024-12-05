@@ -1,5 +1,5 @@
-from bus import Bus
-from register import Register
+from components.bus import Bus
+from components.register import Register
 
 # Initialize components
 bus = Bus(width=8)

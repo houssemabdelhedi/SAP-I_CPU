@@ -1,4 +1,7 @@
 # Example usage:
+from components.bus import Bus
+
+
 bus = Bus(width=8)  # Create an 8-bit Bus
 
 # Component A writes to the Bus
